@@ -7,3 +7,4 @@ def shareFair(x):
 #Hit
 
 print(shareFair(15,5))
+#WORK GIT HUB PLZ
