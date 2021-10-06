@@ -4,3 +4,4 @@ def shareFair(x):
         return True
     else:
         return False
+#Hit
